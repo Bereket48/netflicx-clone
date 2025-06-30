@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Bereket48.github.io/netflix-clone",
+  "homepage": "https://Bereket48.github.io/netflicx-clone",
   "name": "netflix-clone",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +7,6 @@
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
